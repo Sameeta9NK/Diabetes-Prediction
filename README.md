@@ -22,4 +22,7 @@ which will be utilized to determine the Outcome (Y) - Diabetes (1) or Not Diabet
 # Model Training 
 Since this is a binary classification problem, I am using Support Vector Machine(SVM) for running the classification. Its strong performance in high-dimensional spaces and capacity to handle nonlinear relationships between features make it a valuable tool for identifying individuals at risk of diabetes.
 
+# Model Performance
+Recall is crucial in diabetes prediction because it measures the model's ability to correctly identify individuals who actually have diabetes. A high recall rate is essential to minimize false negatives, which means accurately detecting as many diabetic patients as possible. Early detection is vital for timely intervention and preventing severe complications associated with diabetes.
+
 
