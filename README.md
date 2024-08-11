@@ -25,4 +25,10 @@ Since this is a binary classification problem, I am using Support Vector Machine
 # Model Performance
 Recall is crucial in diabetes prediction because it measures the model's ability to correctly identify individuals who actually have diabetes. A high recall rate is essential to minimize false negatives, which means accurately detecting as many diabetic patients as possible. Early detection is vital for timely intervention and preventing severe complications associated with diabetes.
 
+![ROC Curve](https://github.com/Sameeta9NK/PythonProjects/blob/main/Screenshot%202024-08-11%20112310.png)
+
+An ROC AUC of ~80% for a diabetes classification model indicates a reasonably good performance. The model can distinguish between diabetic and non-diabetic individuals with moderate accuracy, but there's still room for improvement to increase sensitivity and specificity, especially in a critical application like diabetes prediction.
+
+To prioritize recall in diabetes prediction, lower the classification threshold. This means more instances will be classified as positive (diabetic), increasing the chances of capturing true positives but also potentially leading to more false positives. The optimal threshold depends on the specific trade-off between recall and precision required for the application.
+
 
