@@ -1,6 +1,6 @@
 # Introduction
 
-Diabetes prediction ML models are crucial for early detection and prevention. By identifying individuals at high risk, timely interventions can be implemented to manage blood sugar levels, reduce complications, and improve overall health outcomes. In this project I am using Support Vector Machine (SVM) for predicting the likelihood of diabetes in individuals based on various health factors. I have built this model using diabetes dataset from the National Institute of Diabetes and Digestive and Kidney Diseases.
+In this project I am using Support Vector Machine (SVM) for predicting the likelihood of diabetes in individuals based on various health factors. I have built this model using diabetes dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. Diabetes prediction ML models are crucial for early detection and prevention. By identifying individuals at high risk, timely interventions can be implemented to manage blood sugar levels, reduce complications, and improve overall health outcomes. 
 
 The data consists of the below columns that entail the health factors of each individual
 - Pregnancies: Number of times pregnant
